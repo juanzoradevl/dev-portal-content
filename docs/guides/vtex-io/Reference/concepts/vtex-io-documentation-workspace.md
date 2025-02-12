@@ -7,7 +7,7 @@ updatedAt: "2022-12-13T20:17:44.537Z"
 category: "App Development"
 ---
 
-Workspaces are environments isolated from each other in terms of app development. They can be understood as different versions of the same VTEX account. In practice, changes performed in a particular workspace do not affect your store's live version or other developers' work.
+Workspaces are environments isolated from each other in terms of app development. They can be understood as different versions of the same VTEX account. In practice, changes performed in a particular workspace do not affect your store's live version or other developer's work.
 
 > ℹ️ If you're used to working with git, think of workspaces as branches.
 
